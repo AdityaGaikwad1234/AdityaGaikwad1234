@@ -1,5 +1,6 @@
 first line
+ HEAD
 second line
 uhyge
 kgfkj
-khf
+k parent of be96f0d (new line)
