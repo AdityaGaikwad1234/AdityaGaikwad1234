@@ -2,5 +2,7 @@ first line
  HEAD
 second line
 uhyge
-kgfkj
+kgfkj HEAD
 k parent of be96f0d (new line)
+
+ parent of a28cdd3 (stash saved)
